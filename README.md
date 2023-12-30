@@ -1,33 +1,15 @@
-### Hi there 👋
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texto Escribiéndose</title>
-    <style>
-        @keyframes write {
-            from { width: 0; }
-            to { width: 100%; }
-        }
+# Hola! Soy Fernando Alaejos Garcia, 
+## Bienvenido a mi Github
 
-        .writing-text {
-            overflow: hidden;
-            border-right: 2px solid #000;
-            white-space: nowrap;
-            animation: write 2s steps(40) forwards;
-        }
-    </style>
-</head>
-<body>
+![my banner](Banner-linkedin-animated.gif)
 
-<p>
-    <span class="writing-text">Este es un texto que parece estar escribiéndose.</span>
-</p>
+## Sobre mi:
+Graduado en Matemáticas y Desarrollador Full Stack, además de estudiante en Ciencia de Datos. Fusiono precisión matemática con innovación tecnológica. Apasionado por resolver problemas complejos con soluciones elegantes en desarrollo y análisis de datos. Actualmente, estoy construyendo mi perfil de GitHub, un proyecto en constante evolución y todavia esta verde  pero siguo mejorandolo poco a poco. 😄 
 
-</body>
-</html>
+##  Actualmente: 
+- He retomado mi proyecto de Github pages con un clon de la web de Amazon que espero terminar para el mes de Febrero.
+- Estoy ordenando los repositorios del bootcamp asi que poco a poco ire subiendo contenido nuevo pero realizado durante los meses de Septiebre hasta Diciembre de 2023 en la Fundació Esplai. 
+
 <!--
 **miKADOWork/miKADOWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
